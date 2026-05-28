@@ -1,0 +1,151 @@
+areopagus-hill
+
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Areopagus Hill 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+希腊
+阿提卡大区	Areopagus Hill
+Areopagus Hill
+Λόφος Αρείου Πάγου
+4.8(5,200)
+古迹地标
+Theorias 21, Athina 105 55希腊
+XPCF+W7 雅典 希腊
+https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\希腊\areopagus-hill\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+希腊国家旅游组织 (GNTO)
+https://www.visitgreece.gr/
+阿提卡大区政府
+https://www.patt.gov.gr/
+阿提卡大区官方旅游局
+https://athensattica.com/
+雅典市政府及官方旅游局
+https://www.thisisathens.org/
+雅典市古物局
+https://efaathculture.gr/
+希腊国家考古地籍系统
+https://www.arxaiologikoktimatologio.gov.gr/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+希腊语
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+
+希腊
+阿提卡大区	Areopagus Hill
+Areopagus Hill
+Λόφος Αρείου Πάγου
+4.8(5,200)
+古迹地标
+Theorias 21, Athina 105 55希腊
+XPCF+W7 雅典 希腊
+https://maps.app.goo.gl/Dupzqbpja8DxWKSH8
+
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+针对位于希腊阿提卡大区（Attica）雅典市卫城西北侧的**战神山（Areopagus Hill / Λόφος Αρείου Πάγου）**，以下为您提供严格自上而下、100%纯正官方政府及官方旅游局背景的5个级别链接链条。
+
+战神山是雅典最重要的免费开放式古迹之一（曾是古雅典的最高法院所在地，也是使徒保罗发表演讲的地方）。它的管辖与展示链条如下：
+
+### 1. 国家级 (National Level)：希腊国家旅游组织 (GNTO)
+
+希腊旅游部直属的国家级文旅门户。这里提供雅典卫城及其周边遗迹（包括战神山、普尼克斯山等）的国家级宏观旅游定位和通用多语种宣发。
+
+* **机构：** 希腊国家旅游组织 (Visit Greece)
+* **官方网址：** [visitgreece.gr](https://www.visitgreece.gr/)
+
+### 2. 大区级 (Regional Level)：阿提卡大区政府
+
+阿提卡大区（Region of Attica）是希腊人口最多、级别最高的行政大区。大区政府统筹整个大雅典都会区的宏观预算、文旅发展战略以及大区级的基础设施维护。
+
+* **机构：** 阿提卡大区政府 (Region of Attica / Περιφέρεια Αττικής)
+* **官方网址：** [patt.gov.gr](https://www.patt.gov.gr/)
+* *(注：阿提卡大区的数字化建设较好，通常不会像色萨利大区那样出现严重的跨国IP屏蔽问题，您可以顺利访问。)*
+
+### 3. 市级 (Municipal Level)：雅典市政府及官方旅游局
+
+雅典市政厅负责战神山周边的城市道路规划、夜间照明及市容维护。其下属的官方旅游局（This is Athens）是获取该地标最新市级游览建议、周边街区（如普拉卡区）官方导览的最佳入口。
+
+* **机构：** 雅典市政府 / 雅典官方旅游局 (This is Athens)
+* **官方网址：** [cityofathens.gr](https://www.cityofathens.gr/) (市政官方主站) / [thisisathens.org](https://www.thisisathens.org/) (官方旅游局主站)
+
+### 4. 地方专管执行机构 (Specific Authority)：雅典市古物局
+
+这是战神山**最核心、最直接**的官方产权与日常管辖单位。作为希腊文化部直属派驻机构，雅典市古物局负责整个雅典历史中心（包括卫城、战神山、古罗马市场等）的所有考古勘探、文物保护及现场秩序管理。
+
+* **机构：** 希腊文化部 - 雅典市古物局 (Ephorate of Antiquities of the City of Athens / ΕΦΑ Πόλης Αθηνών)
+* **官方网址：** [efaathculture.gr](http://efaathculture.gr/)
+* *(注：这是雅典古物局与希腊国家研究与技术基金会联合打造的官方宣发主站，专门发布雅典市区古迹的考古通讯与保护项目。)*
+
+### 5. 专业遗产数据库 (Heritage Database)：希腊国家考古地籍系统
+
+战神山作为极高法律级别的“核心考古红线区”，其精准的GIS地理测绘边界、法定保护定级档案均强制录入此国家级系统。这是整个希腊目前最高规格、带HTTPS加密的官方文物名录。
+
+* **机构：** 希腊文化部 - 考古地籍与空间信息局
+* **官方网址：** [arxaiologikoktimatologio.gov.gr](https://www.arxaiologikoktimatologio.gov.gr/)
+
+
+
+
