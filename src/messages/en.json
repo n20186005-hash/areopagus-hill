@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "title": "Areopagus Hill – Athens, Greece",
+    "description": "Complete travel guide to Areopagus Hill in Athens. Learn about this historic landmark, including location, views, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Areopagus Hill",
+    "subtitle": "Historic Landmark · Athens",
+    "rating": "4.8",
+    "reviewCount": "5,200 reviews",
+    "type": "Ancient Landmark",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8"
+  },
+  "intro": {
+    "title": "Discover Areopagus Hill",
+    "description": "Areopagus Hill is one of the most historic sites in Athens, offering views of the Sacred Rock of the Acropolis. According to tradition, this is where Apostle Paul delivered his first speech to the Athenians. The hill offers panoramic views of the Acropolis and the city.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The best time to visit is at sunset.",
+        "Wear comfortable shoes for the climb.",
+        "In summer, prefer morning or afternoon hours.",
+        "There are benches for resting at the top."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Panoramic view of the Acropolis",
+        "Historic site of Apostle Paul's speech",
+        "Large limestone rock",
+        "Ideal spot for photography"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Areopagus Hill",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Mythology",
+        "content": "The Areopagus was an ancient court and meeting place. According to tradition, Apostle Paul spoke here to the Athenians about Christianity in the 1st century AD."
+      },
+      {
+        "id": "geography",
+        "title": "Geography",
+        "content": "The hill is located northwest of the Acropolis, near the Roman Agora. Its height is approximately 115 meters above sea level."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture",
+        "content": "The hill consists of limestone and has stairs leading to the top. At its base is the church of Saint Dionysius the Areopagite."
+      },
+      {
+        "id": "protection",
+        "title": "Protection & Preservation",
+        "content": "The site is managed by the Athens Ephorate of Antiquities and protected by Greek cultural heritage legislation."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Areopagus Hill (Λόφος Αρείου Πάγου)",
+    "type": "Attraction Type",
+    "typeValue": "Historic Landmark / Archaeological Site",
+    "country": "Country",
+    "countryValue": "Greece",
+    "city": "City",
+    "cityValue": "Athens (Attica)",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (5,200)",
+    "address": "Address",
+    "addressValue": "Theorias 21, Athina 105 55, Greece",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XPCF+W7 Athens, Greece",
+    "phone": "Phone",
+    "phoneValue": "+30 21 0 000 0000"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Access",
+    "parkTime": "Open 24 hours, all year round",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Pleasant climate, blooming flowers",
+    "bestTimeSummer": "Summer: Prefer morning or evening, avoid midday heat",
+    "bestTimeAutumn": "Autumn: Mild weather, ideal for walking",
+    "bestTimeWinter": "Winter: Fewer tourists, clear views",
+    "tip": "No ticket required. Recommended to visit at sunset for the best view."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free for the public",
+    "parking": "Parking",
+    "parkingPrice": "Free public parking available nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Available through local tourism operators"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Center (Plaka/Monastiraki)",
+    "fromCenterDesc": "Distance about 1km from Plaka. You can walk or take the metro (Monastiraki/Thisseio stations).",
+    "fromStation": "From Metro Station",
+    "fromStationDesc": "Monastiraki or Thisseio stations (Lines 1 and 3).",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Distance about 40km. Take the metro from the airport to Monastiraki station.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Metro: Monastiraki or Thisseio stations.",
+    "walking": "Walking",
+    "walkingDesc": "10-15 minutes walk from Plaka or Monastiraki.",
+    "driving": "Driving",
+    "drivingDesc": "Limited parking in the area. Public transport is recommended."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Walk up the hill and enjoy the historic view.",
+    "steps": [
+      "Start from Theorias Street near the Roman Agora",
+      "Climb the stairs to the top of the hill",
+      "Reach the point with the best view of the Acropolis",
+      "Visit the church of Saint Dionysius the Areopagite",
+      "Conclude with an unforgettable sunset"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Hill Top",
+        "description": "The place where you can take the most classic photos of the Acropolis.",
+        "location": "Top",
+        "image": "/gallery/areopagus-hill (1).jpg"
+      },
+      {
+        "title": "Sunset Point",
+        "description": "Ideal location for photos with the Acropolis illuminated.",
+        "location": "Hill Side",
+        "image": "/gallery/areopagus-hill (2).jpg"
+      },
+      {
+        "title": "Areopagus Stairs",
+        "description": "Historic stairs leading to the top.",
+        "location": "Entrance",
+        "image": "/gallery/areopagus-hill (3).jpg"
+      },
+      {
+        "title": "Panoramic View",
+        "description": "View of Athens city and Lycabettus Hill.",
+        "location": "Top",
+        "image": "/gallery/areopagus-hill (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "The Best View of Athens",
+    "captions": [
+      "Panoramic view of the Acropolis",
+      "The hill from a distance",
+      "Stairs to the top",
+      "Statue on the hill",
+      "View of the city",
+      "The Acropolis at sunset",
+      "Historic ruins",
+      "Rock formations",
+      "View towards Lycabettus",
+      "Ancient architecture",
+      "360° panoramic view",
+      "The hill in spring",
+      "Statue of Apostle Paul",
+      "View of the Roman Agora",
+      "The hill at sunset",
+      "Ancient monuments",
+      "View towards Thisseio"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "John C.",
+        "rating": 5,
+        "date": "2026-03-15",
+        "text": "Incredible place! The best view of the Acropolis. Recommended to climb at sunset."
+      },
+      {
+        "name": "Mary G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "Went with my parents and it was excellent. Calm and relaxing place, perfect for family visit."
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "Very beautiful place for walking. The view is superb. Ideal for photography."
+      },
+      {
+        "name": "Helen S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "For a visit to Athens, this is one of the top historic attractions you shouldn't miss. Very romantic at sunset."
+      },
+      {
+        "name": "Mark A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "Historic site with incredible energy. Free admission and amazing views."
+      },
+      {
+        "name": "Claire B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "Perfect place for relaxation and photography. Don't miss it if you're in Athens."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Theorias 21, Athina 105 55, Greece",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Areopagus Hill",
+    "brandSubtitle": "Historic Landmark · Athens",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "gnto": "Greek National Tourism Organization",
+      "atticaGov": "Attica Regional Government",
+      "athensAttica": "Attica Official Tourism",
+      "thisisathens": "Athens City & Official Tourism",
+      "efaath": "Athens Ephorate of Antiquities",
+      "archaeological": "National Archaeological Cadastre"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Areopagus Hill",
+    "text": "Areopagus Hill is managed and protected by the Athens Ephorate of Antiquities. The site is protected by Greek cultural heritage legislation."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about Areopagus Hill. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

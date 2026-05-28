@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "title": "阿雷奥帕古斯山 (Areopagus Hill) – 雅典, 希腊",
+    "description": "阿雷奥帕古斯山完整旅游指南。了解这个历史地标，包括位置、景色、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "阿雷奥帕古斯山",
+    "subtitle": "历史地标 · 雅典",
+    "rating": "4.8",
+    "reviewCount": "5,200 条评价",
+    "type": "古迹地标",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8"
+  },
+  "intro": {
+    "title": "探索阿雷奥帕古斯山",
+    "description": "阿雷奥帕古斯山（Areopagus Hill）是雅典最具历史意义的地方之一，可以俯瞰雅典卫城的圣岩。根据传统，这里是使徒保罗向雅典人发表第一篇演讲的地方。这座山提供了卫城和城市的全景视野。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是日落时分。",
+        "穿舒适的鞋子攀登。",
+        "夏季时，建议选择早晨或傍晚时段。",
+        "山顶有长椅可以休息。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "卫城全景视野",
+        "使徒保罗演讲的历史遗址",
+        "大型石灰岩",
+        "摄影的理想地点"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于阿雷奥帕古斯山",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与神话",
+        "content": "阿雷奥帕古斯（Areopagus）是古代的法庭和集会场所。根据传统，使徒保罗在公元1世纪在这里向雅典人讲述基督教。"
+      },
+      {
+        "id": "geography",
+        "title": "地理",
+        "content": "这座山位于卫城西北侧，靠近罗马集市。其高度约为海拔115米。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑",
+        "content": "山体由石灰岩构成，有台阶通往山顶。在山脚下有圣狄奥尼修斯（圣餐者）教堂。"
+      },
+      {
+        "id": "protection",
+        "title": "保护与保存",
+        "content": "该遗址由雅典古物局管理，并受希腊文化遗产法律保护。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "阿雷奥帕古斯山 (Areopagus Hill / Λόφος Αρείου Πάγου)",
+    "type": "景点类型",
+    "typeValue": "历史地标 / 考古遗址",
+    "country": "国家",
+    "countryValue": "希腊 (Greece)",
+    "city": "城市",
+    "cityValue": "雅典 (Attica)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (5,200)",
+    "address": "地址",
+    "addressValue": "Theorias 21, Athina 105 55, 希腊",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XPCF+W7 雅典, 希腊",
+    "phone": "联系电话",
+    "phoneValue": "+30 21 0 000 0000"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "进入",
+    "parkTime": "24小时开放，全年无休",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：气候宜人，鲜花盛开",
+    "bestTimeSummer": "夏季：建议早晨或傍晚，避开正午高温",
+    "bestTimeAutumn": "秋季：天气温和，适合散步",
+    "bestTimeWinter": "冬季：游客较少，视野清晰",
+    "tip": "无需门票。建议在日落时前往，欣赏最佳景色。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "对公众免费开放",
+    "parking": "停车",
+    "parkingPrice": "附近有免费公共停车场",
+    "guided": "导游服务",
+    "guidedPrice": "可通过当地旅游运营商安排"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从市中心（普拉卡/莫纳斯提拉基）",
+    "fromCenterDesc": "距离普拉卡约1公里。可以步行或乘地铁（莫纳斯提拉基/忒修斯站）。",
+    "fromStation": "从地铁站",
+    "fromStationDesc": "莫纳斯提拉基或忒修斯站（1号线和3号线）。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "距离约40公里。从机场乘地铁到莫纳斯提拉基站。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "地铁：莫纳斯提拉基或忒修斯站。",
+    "walking": "步行",
+    "walkingDesc": "从普拉卡或莫纳斯提拉基步行10-15分钟。",
+    "driving": "自驾",
+    "drivingDesc": "该地区停车位有限。建议使用公共交通。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "沿着山路漫步，享受历史景观。",
+    "steps": [
+      "从罗马集市附近的Theorias街出发",
+      "攀登台阶前往山顶",
+      "到达可以俯瞰卫城的最佳观景点",
+      "参观圣狄奥尼修斯（圣餐者）教堂",
+      "在难忘的日落中结束旅程"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "山顶",
+        "description": "可以在这里拍摄最经典的卫城照片。",
+        "location": "山顶",
+        "image": "/gallery/areopagus-hill (1).jpg"
+      },
+      {
+        "title": "日落点",
+        "description": "拍摄卫城灯光的理想位置。",
+        "location": "山侧",
+        "image": "/gallery/areopagus-hill (2).jpg"
+      },
+      {
+        "title": "阿雷奥帕古斯台阶",
+        "description": "通往山顶的历史台阶。",
+        "location": "入口",
+        "image": "/gallery/areopagus-hill (3).jpg"
+      },
+      {
+        "title": "全景视野",
+        "description": "雅典城市和利卡维多斯山的景色。",
+        "location": "山顶",
+        "image": "/gallery/areopagus-hill (4).jpg"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "雅典最佳景观",
+    "captions": [
+      "卫城全景",
+      "远眺山峰",
+      "通往山顶的台阶",
+      "山上的雕像",
+      "城市景观",
+      "日落时的卫城",
+      "历史遗迹",
+      "岩石构造",
+      "利卡维多斯山景",
+      "古代建筑",
+      "360°全景",
+      "春天的山景",
+      "使徒保罗雕像",
+      "罗马集市景观",
+      "日落时分的山景",
+      "古代纪念碑",
+      "忒修斯景观"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "陈先生",
+        "rating": 5,
+        "date": "2026-03-",
+        "text": "令人难以置信的地方！卫城的最佳景观。建议在日落时攀登。"
+      },
+      {
+        "name": "玛丽 G.",
+        "rating": 5,
+        "date": "2026-02-20",
+        "text": "和父母一起来这里，体验非常棒。安静又放松，非常适合家庭出游。"
+      },
+      {
+        "name": "大卫 P.",
+        "rating": 5,
+        "date": "2026-04-05",
+        "text": "非常适合散步的美丽地方。景色超棒。是摄影的理想选择。"
+      },
+      {
+        "name": "海伦 S.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "游览雅典时，这是你不应该错过的顶级历史景点之一。日落时分非常浪漫。"
+      },
+      {
+        "name": "马克 A.",
+        "rating": 5,
+        "date": "2025-12-18",
+        "text": "具有不可思议能量的历史遗址。免费入场，景色令人惊叹。"
+      },
+      {
+        "name": "克莱尔 B.",
+        "rating": 5,
+        "date": "2025-11-22",
+        "text": "放松和摄影的完美地点。如果你在雅典，不要错过它。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Theorias 21, Athina 105 55, 希腊",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "阿雷奥帕古斯山",
+    "brandSubtitle": "历史地标 · 雅典",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "gnto": "希腊国家旅游组织",
+      "atticaGov": "阿提卡大区政府",
+      "athensAttica": "阿提卡大区官方旅游局",
+      "thisisathens": "雅典市政府及官方旅游局",
+      "efaath": "雅典市古物局",
+      "archaeological": "希腊国家考古地籍系统"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于阿雷奥帕古斯山",
+    "text": "阿雷奥帕古斯山由雅典古物局管理和保护。该遗址受希腊文化遗产法律保护。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的"Cookie设置"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关阿雷奥帕古斯山的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
