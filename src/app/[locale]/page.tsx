@@ -11,6 +11,8 @@ import RouteSection from '@/components/RouteSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
+import FAQSection from '@/components/FAQSection';
+import NearbySection from '@/components/NearbySection';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -33,8 +35,10 @@ export default async function HomePage({
         <TransportSection />
         <InfoSection />
         <RouteSection />
+        <NearbySection />
         <Gallery />
         <Reviews />
+        <FAQSection />
         <MapEmbed />
       </main>
       <Footer />

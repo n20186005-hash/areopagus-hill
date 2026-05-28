@@ -47,22 +47,63 @@
       {
         "id": "history",
         "title": "History & Mythology",
-        "content": "The Areopagus was an ancient court and meeting place. According to tradition, Apostle Paul spoke here to the Athenians about Christianity in the 1st century AD."
+        "content": "The Areopagus (Mars Hill) was the seat of the aristocratic council and highest criminal court in ancient Athens. In mythology, Ares was tried here for the murder of Poseidon's son. In the 1st century AD (around 51 AD), Apostle Paul delivered his famous 'Unknown God' sermon here, a significant event in early Christianity."
       },
       {
         "id": "geography",
-        "title": "Geography",
-        "content": "The hill is located northwest of the Acropolis, near the Roman Agora. Its height is approximately 115 meters above sea level."
+        "title": "Geography & Geology",
+        "content": "The hill is located northwest of the Acropolis, near the Roman Agora, with an elevation of about 115 meters. Composed primarily of exposed marble and limestone, its surface has become extremely smooth over millennia of weathering and visitors' footsteps. Its location makes it one of the best spots to view the Acropolis and the city of Athens."
       },
       {
         "id": "architecture",
-        "title": "Architecture",
-        "content": "The hill consists of limestone and has stairs leading to the top. At its base is the church of Saint Dionysius the Areopagite."
+        "title": "Architecture & Ruins",
+        "content": "Unlike other ancient sites in Athens, the Areopagus features almost no monumental structures, consisting mainly of bare rock. At the base, you can find the ruins of the church dedicated to Saint Dionysius the Areopagite, the first bishop of Athens who converted after Paul's sermon. Access to the top is via modern metal stairs or ancient stone steps cut into the rock."
       },
       {
         "id": "protection",
         "title": "Protection & Preservation",
-        "content": "The site is managed by the Athens Ephorate of Antiquities and protected by Greek cultural heritage legislation."
+        "content": "As a site of immense historical and cultural value, Areopagus Hill is managed by the Athens Ephorate of Antiquities and protected by Greek heritage laws. To preserve the sacred rock and ensure safety, authorities have installed partial handrails on the steep sections while maintaining its natural appearance."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Do I need a ticket to visit Areopagus Hill?",
+        "answer": "No, Areopagus Hill is a completely free public site, open 24 hours a day, all year round."
+      },
+      {
+        "question": "Is it safe to climb to the top at night?",
+        "answer": "There is some lighting at night, but the rocks are very slippery and there are no guardrails at the edges. We recommend bringing a flashlight, wearing non-slip shoes, and paying close attention to your footing. The night view of Athens is stunning, but safety comes first."
+      },
+      {
+        "question": "Are there restrooms or food vendors on the hill?",
+        "answer": "There are no commercial facilities or public restrooms on the hill itself. It is advisable to use the facilities and grab a bite in the nearby Plaka district or at cafes around the Acropolis beforehand."
+      },
+      {
+        "question": "Is the climb difficult? Is it suitable for the elderly or children?",
+        "answer": "The climb is not very high, and there are metal and stone steps available, making it relatively easy for most fitness levels. However, due to the uneven and extremely slippery rocks, elderly visitors and children should be very careful and may need assistance."
+      }
+    ]
+  },
+  "nearby": {
+    "title": "Nearby Attractions",
+    "items": [
+      {
+        "name": "Acropolis of Athens",
+        "distance": "Approx. 3 mins walk",
+        "description": "Greece's most famous ancient citadel, containing the Parthenon, the Erechtheion, and other monumental masterpieces."
+      },
+      {
+        "name": "Roman Agora",
+        "distance": "Approx. 5 mins walk",
+        "description": "The commercial and administrative center of ancient Athens, featuring fascinating ruins like the Tower of the Winds."
+      },
+      {
+        "name": "Plaka District",
+        "distance": "Approx. 8 mins walk",
+        "description": "One of the oldest neighborhoods in Athens, famous for its maze-like narrow streets, neoclassical architecture, and numerous tavernas."
       }
     ]
   },
@@ -81,9 +122,7 @@
     "address": "Address",
     "addressValue": "Theorias 21, Athina 105 55, Greece",
     "plusCode": "Plus Code",
-    "plusCodeValue": "XPCF+W7 Athens, Greece",
-    "phone": "Phone",
-    "phoneValue": "+30 21 0 000 0000"
+    "plusCodeValue": "XPCF+W7 Athens, Greece"
   },
   "hours": {
     "title": "Visiting Hours",
