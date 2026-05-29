@@ -122,7 +122,9 @@
     "address": "Address",
     "addressValue": "Theorias 21, Athina 105 55, Greece",
     "plusCode": "Plus Code",
-    "plusCodeValue": "XPCF+W7 Athens, Greece"
+    "plusCodeValue": "XPCF+W7 Athens, Greece",
+    "phone": "Phone",
+    "phoneValue": "+30 210 321 4172"
   },
   "hours": {
     "title": "Visiting Hours",
