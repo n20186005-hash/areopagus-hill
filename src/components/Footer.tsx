@@ -3,7 +3,7 @@ import { useTranslations, useLocale } from 'next-intl';
 export default function Footer() {
   const t = useTranslations('footer');
   const locale = useLocale();
-  const prefix = locale === 'en' ? '' : `/${locale}`;
+  const prefix = locale === 'el' ? '' : `/${locale}`;
 
   const officialLinks = t.raw('officialLinks') || {};
 
@@ -66,6 +66,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('imageCopyright')}</p>
         </div>
       </div>
     </footer>

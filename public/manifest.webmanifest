@@ -1,0 +1,21 @@
+{
+  "name": "Areopagus Hill Athens - Visitor Guide",
+  "short_name": "Areopagus Hill",
+  "description": "Comprehensive visitor guide to Areopagus Hill (Mars Hill) in Athens, Greece. Location map, opening hours, sunset views, and travel tips.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#d4a853",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["travel", "tourism"],
+  "lang": "en",
+  "dir": "ltr"
+}

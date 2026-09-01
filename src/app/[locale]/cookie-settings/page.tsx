@@ -8,24 +8,21 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
+  const baseUrl = 'https://areopagushillathens.com';
   const zhUrl = `${baseUrl}/zh/cookie-settings`;
   const enUrl = `${baseUrl}/en/cookie-settings`;
-  const mtUrl = `${baseUrl}/mt/cookie-settings`;
-  const itUrl = `${baseUrl}/it/cookie-settings`;
-  const esUrl = `${baseUrl}/es/cookie-settings`;
-  const selfUrl = `${baseUrl}/${locale}/cookie-settings`;
+  const elUrl = `${baseUrl}/cookie-settings`;
+  const selfUrl = locale === 'el' ? elUrl : `${baseUrl}/${locale}/cookie-settings`;
 
   return {
+    title: 'Cookie Settings – Areopagus Hill Athens',
     alternates: {
       canonical: selfUrl,
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'el': elUrl,
+        'x-default': elUrl,
       },
     },
   };

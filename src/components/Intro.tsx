@@ -16,14 +16,32 @@ export default function Intro() {
         >
           {t('title')}
         </h2>
+        {messages?.intro?.breadcrumb && (
+          <nav aria-label="Breadcrumb" className="mb-4">
+            <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+              {messages.intro.breadcrumb as string}
+            </p>
+          </nav>
+        )}
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
         >
           {t('description')}
         </p>
+
+        {messages?.intro?.semanticIntro && (
+          <p
+            className="text-lg leading-relaxed mb-12"
+            style={{ color: 'var(--text-secondary)' }}
+            dangerouslySetInnerHTML={{
+              __html: (messages.intro.semanticIntro as string)
+                .replace(/\*\*(.*?)\*\*/g, '<strong style="color:var(--text-primary)">$1</strong>'),
+            }}
+          />
+        )}
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

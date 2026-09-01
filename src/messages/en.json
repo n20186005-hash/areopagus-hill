@@ -1,7 +1,8 @@
 {
   "meta": {
-    "title": "Areopagus Hill – Athens, Greece",
-    "description": "Complete travel guide to Areopagus Hill in Athens. Learn about this historic landmark, including location, views, access, and visitor information."
+    "title": "Areopagus Hill (Athens) - Visitor Guide & Location",
+    "ogTitle": "Areopagus Hill - Athens Travel Guide",
+    "description": "Discover Areopagus Hill (Mars Hill), the iconic landmark in Athens, Attica, Greece. View location map, opening details, nearby Acropolis, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,17 +12,19 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Areopagus Hill",
+    "title": "Areopagus Hill — Athens, Greece",
     "subtitle": "Historic Landmark · Athens",
     "rating": "4.8",
-    "reviewCount": "5,200 reviews",
+    "reviewCount": "5,515 reviews",
     "type": "Ancient Landmark",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8"
   },
   "intro": {
-    "title": "Discover Areopagus Hill",
+    "title": "About Areopagus Hill",
+    "breadcrumb": "Areopagus Hill → Athens → Attica → Greece",
     "description": "Areopagus Hill is one of the most historic sites in Athens, offering views of the Sacred Rock of the Acropolis. According to tradition, this is where Apostle Paul delivered his first speech to the Athenians. The hill offers panoramic views of the Acropolis and the city.",
+    "semanticIntro": "Welcome to **Areopagus Hill (Λόφος Αρείου Πάγου)**, widely recognized as the central **Mars Hill** of Athens. Located in the heart of **Athens**, **Attica**, **Greece**, this destination serves as a primary hub for travelers visiting the region. When visiting Areopagus Hill, visitors can easily explore surrounding historical landmarks and points of interest, including the **Acropolis of Athens** and the **Roman Agora**.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -87,8 +90,48 @@
       }
     ]
   },
+  "sunsetGuide": {
+    "title": "Best Sunset Viewpoint in Athens",
+    "description": "Areopagus Hill (Mars Hill) is widely regarded as the best free sunset viewpoint in Athens. The smooth limestone rock offers an unobstructed 360° panoramic view of the Acropolis, the city skyline, and Mount Lycabettus — all bathed in golden light.",
+    "tips": {
+      "title": "Sunset Viewing Tips",
+      "items": [
+        "Arrive 45 minutes before sunset to secure a good spot on the rock.",
+        "Bring your own drinks and snacks — there are no vendors on the hill.",
+        "The best photo angle faces northwest towards the Acropolis with the setting sun behind it.",
+        "Stay after sunset to see the Acropolis illuminated against the night sky.",
+        "Summer sunset is around 8:30–9:00 PM; winter sunset around 5:15–5:30 PM."
+      ]
+    }
+  },
+  "safetyTips": {
+    "title": "Slippery Rock Warning & Safety Tips",
+    "description": "The marble and limestone surface of Areopagus Hill has become extremely smooth over thousands of years. Many visitors have slipped and been injured. Please take these precautions seriously.",
+    "items": [
+      {
+        "icon": "shoe",
+        "title": "Wear Non-Slip Shoes",
+        "description": "Flat shoes with rubber grips are essential. Avoid sandals, heels, or smooth-soled shoes."
+      },
+      {
+        "icon": "flashlight",
+        "title": "Bring a Flashlight at Night",
+        "description": "While there is some lighting, it is not enough to see the uneven rock surface clearly."
+      },
+      {
+        "icon": "warning",
+        "title": "No Guardrails at Edges",
+        "description": "The hill has no protective barriers at the edges. Stay away from steep drops, especially in darkness."
+      },
+      {
+        "icon": "children",
+        "title": "Supervise Children Closely",
+        "description": "Children should always hold an adult's hand. The rocks are uneven and very slippery."
+      }
+    ]
+  },
   "nearby": {
-    "title": "Nearby Attractions",
+    "title": "Landmarks & Attractions Around Areopagus Hill",
     "items": [
       {
         "name": "Acropolis of Athens",
@@ -118,7 +161,7 @@
     "city": "City",
     "cityValue": "Athens (Attica)",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (5,200)",
+    "googleRatingValue": "4.8 (5,515)",
     "address": "Address",
     "addressValue": "Theorias 21, Athina 105 55, Greece",
     "plusCode": "Plus Code",
@@ -203,23 +246,23 @@
     "title": "Photo Gallery",
     "subtitle": "The Best View of Athens",
     "captions": [
-      "Panoramic view of the Acropolis",
-      "The hill from a distance",
-      "Stairs to the top",
-      "Statue on the hill",
-      "View of the city",
-      "The Acropolis at sunset",
-      "Historic ruins",
-      "Rock formations",
-      "View towards Lycabettus",
-      "Ancient architecture",
-      "360° panoramic view",
-      "The hill in spring",
-      "Statue of Apostle Paul",
-      "View of the Roman Agora",
-      "The hill at sunset",
-      "Ancient monuments",
-      "View towards Thisseio"
+      "Panoramic Acropolis view from Areopagus Hill sunset viewpoint",
+      "Areopagus Hill limestone rocks near the Acropolis",
+      "Ancient stone stairs leading to Areopagus Hill summit",
+      "Apostle Paul statue at Mars Hill biblical site",
+      "Free panoramic Athens cityscape from Areopagus Hill",
+      "Best sunset view of the Acropolis from Mars Hill",
+      "Ancient Areopagus court ruins in Athens",
+      "Polished limestone rock formations on Mars Hill",
+      "Panoramic Athens skyline from Areopagus viewpoint",
+      "Ancient Greek Areopagus archaeological site",
+      "360° panoramic sunset view from Areopagus Hill",
+      "Spring wildflowers on Mars Hill near Acropolis",
+      "Apostle Paul statue at Areopagus Hill Athens",
+      "Roman Agora view from Areopagus Hill Athens",
+      "Golden sunset over Acropolis from Mars Hill",
+      "Ancient monuments near Areopagus Hill Athens",
+      "Thisseio temple view from Areopagus sunset spot"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
@@ -269,7 +312,7 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
+    "title": "Location & How to Visit Areopagus Hill in Athens",
     "subtitle": "Theorias 21, Athina 105 55, Greece",
     "openMaps": "View on Google Maps"
   },
@@ -289,7 +332,8 @@
       "efaath": "Athens Ephorate of Antiquities",
       "archaeological": "National Archaeological Cadastre"
     },
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies.",
+    "imageCopyright": "All images displayed on this website are the property of their respective photographers. All rights reserved."
   },
   "officialManagement": {
     "title": "About Areopagus Hill",
@@ -349,5 +393,140 @@
     },
     "save": "Save Preferences",
     "saved": "Preferences Saved!"
+  },
+  "visitorServices": {
+    "title": "Visitor Services & Facilities",
+    "description": "Areopagus Hill itself has no commercial facilities. The following services are available in the surrounding area within walking distance.",
+    "items": [
+      {
+        "icon": "restroom",
+        "title": "Restrooms & WC",
+        "description": "There are no restrooms on the hill. The nearest public restrooms can be found in the Plaka district, near the Acropolis Museum, and at cafes along Dionysiou Areopagitou street. Plan ahead before your visit."
+      },
+      {
+        "icon": "parking",
+        "title": "Parking",
+        "description": "Street parking is available on surrounding roads but spaces are limited, especially during peak tourist season. Public parking garages can be found near Monastiraki square and along Athinas Street. Free roadside parking spots exist on quieter side streets."
+      },
+      {
+        "icon": "dining",
+        "title": "Dining & Cafes",
+        "description": "The Plaka and Monastiraki neighborhoods offer a wide range of dining options: traditional Greek tavernas, casual cafes, fast food outlets, and restaurants with Acropolis views. The Thisseio area along the pedestrian walkway also has several cafes. Bring your own water and snacks when climbing the hill."
+      },
+      {
+        "icon": "accommodation",
+        "title": "Accommodation",
+        "description": "The area around the Acropolis offers various types of accommodation within walking distance: boutique hotels, budget hostels, vacation apartments, and traditional guesthouses. The Plaka, Monastiraki, and Thisseio neighborhoods are the closest options, all within 5–10 minutes on foot."
+      },
+      {
+        "icon": "shopping",
+        "title": "Supermarkets & Shopping",
+        "description": "Small convenience stores and mini markets are scattered throughout Plaka and Monastiraki for water, snacks, and essentials. The Monastiraki Flea Market offers souvenirs and local crafts. Larger supermarkets can be found on Ermou Street and along Athinas Avenue."
+      },
+      {
+        "icon": "gasEV",
+        "title": "Gas Stations & EV Charging",
+        "description": "Several gas stations are located along the main roads surrounding the Acropolis area, particularly on Athinas Street and Syngrou Avenue. Electric vehicle charging points are increasingly available in public parking areas in central Athens — check your EV app for the nearest available charger."
+      }
+    ]
+  },
+  "historyLegends": {
+    "title": "History, Myths & Legends",
+    "description": "Areopagus Hill carries over 3,000 years of layered history — from Greek mythology to the birthplace of Western jurisprudence, from ancient trials to the spread of Christianity.",
+    "timeline": [
+      {
+        "era": "Mythological Origins",
+        "title": "The Trial of Ares",
+        "content": "According to Greek mythology, the Areopagus — literally 'Hill of Ares' — gets its name from the god of war, Ares. Legend says that Ares was tried here by the gods for the murder of Halirrothius, a son of Poseidon. Poseidon had accused Ares of killing his son after Halirrothius attempted to assault Ares's daughter Alcippe. This mythological trial is said to be the first court case in human history, establishing the principle that even gods must answer for violence. The twelve Olympian gods served as judges, with Athena casting the deciding vote to acquit Ares, acknowledging the act as defense of family honor."
+      },
+      {
+        "era": "7th–6th Century BC",
+        "title": "The Ancient Court of the Areopagus",
+        "content": "The Areopagus Council was one of the oldest institutions in ancient Athens, composed of former archons (chief magistrates) who served for life. In the archaic period, this council held enormous power — overseeing laws, religious affairs, and the conduct of public officials. The reformer Solon (c. 594 BC) reorganized the council but maintained its role as a guardian of the constitution. It served as the highest court for cases of homicide, religious offenses, and crimes against the state. The court's authority and solemnity made it a symbol of Athenian justice."
+      },
+      {
+        "era": "5th–4th Century BC",
+        "title": "Democratic Reforms and Declining Power",
+        "content": "As Athens developed its radical democracy, the power of the aristocratic Areopagus Council was progressively reduced. In 462 BC, the reformer Ephialtes stripped the council of most of its political powers, transferring them to the democratic institutions — the Assembly (Ekklesia), the Council of 500 (Boule), and the popular courts. However, the Areopagus retained its prestige as the court for homicide trials, a role it maintained for centuries. The philosopher Aristotle later wrote that the council's remaining judicial functions made it 'the guardian of the laws.'"
+      },
+      {
+        "era": "c. 51 AD",
+        "title": "Apostle Paul's Sermon — The 'Unknown God'",
+        "content": "One of the most significant events in the hill's history occurred around 51 AD, when the Apostle Paul was brought before the Areopagus Council to explain his new teachings. According to the Acts of the Apostles (Chapter 17), Paul had been preaching in the Athenian Agora about Jesus and the resurrection. Intrigued but confused by his message, the Athenians brought him to the Areopagus to hear more. Paul's speech — known as the 'Mars Hill Address' — masterfully connected Christian theology to Greek philosophy, referencing an altar he had seen inscribed 'To an Unknown God.' He declared that this unknown god was in fact the creator of all. The speech resulted in several conversions, including Dionysius the Areopagite, who became the first bishop of Athens, and a woman named Damaris."
+      },
+      {
+        "era": "Byzantine & Ottoman Era",
+        "title": "From Ancient Ruins to Sacred Memory",
+        "content": "During the Byzantine period, a small church dedicated to Saint Dionysius the Areopagite was built at the base of the hill, commemorating Paul's conversion of Athens's first bishop. The hill and its surroundings remained a place of religious significance through the centuries. During the Ottoman period (15th–19th century), the area around the Areopagus was largely undeveloped, and the ancient rock stood as a silent witness to centuries of changing empires. Travelers and archaeologists visiting Athens during this period often noted the hill's striking appearance and its connection to both classical and biblical history."
+      },
+      {
+        "era": "Modern Era",
+        "title": "A Living Monument",
+        "content": "Today, Areopagus Hill stands as one of Athens's most visited free attractions. The ancient stone steps and modern metal staircases allow visitors to walk in the footsteps of ancient judges, philosophers, and apostles. The site continues to be managed by the Greek archaeological service, which works to preserve the rock's natural character while ensuring visitor safety. The hill remains a place where mythology, history, religion, and natural beauty converge — a rare site where you can stand on the same rock where a god was judged, a council deliberated, and a faith was first proclaimed to Europe."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Current Weather & Forecast",
+    "description": "Check the current weather conditions and 7-day forecast for Areopagus Hill. Plan your visit accordingly — clear skies at sunset make for the best photos!",
+    "currentWeather": "Current Weather",
+    "forecast": "7-Day Forecast",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "dataSource": "Data source",
+    "clearSky": "Clear sky",
+    "mainlyClear": "Mainly clear",
+    "partlyCloudy": "Partly cloudy",
+    "overcast": "Overcast",
+    "fog": "Foggy",
+    "lightDrizzle": "Light drizzle",
+    "drizzle": "Drizzle",
+    "heavyDrizzle": "Heavy drizzle",
+    "lightRain": "Light rain",
+    "rain": "Rain",
+    "heavyRain": "Heavy rain",
+    "lightSnow": "Light snow",
+    "snow": "Snow",
+    "heavySnow": "Heavy snow",
+    "rainShowers": "Rain showers",
+    "heavyShowers": "Heavy showers",
+    "thunderstorm": "Thunderstorm",
+    "unknown": "Unknown"
+  },
+  "sourcesSection": {
+    "title": "Sources & References",
+    "description": "The information on this page is compiled from the following authoritative sources. We are committed to providing accurate, well-sourced content for our visitors.",
+    "sources": [
+      {
+        "title": "Greek National Tourism Organization",
+        "url": "https://www.visitgreece.gr/",
+        "description": "Official tourism portal of Greece with comprehensive information about attractions, events, and travel tips."
+      },
+      {
+        "title": "Hellenic Ministry of Culture & Sports",
+        "url": "https://www.culture.gov.gr/",
+        "description": "Government body responsible for the protection and promotion of Greece's cultural heritage, including archaeological sites."
+      },
+      {
+        "title": "Athens Ephorate of Antiquities",
+        "url": "https://efaathculture.gr/",
+        "description": "Regional office of the Hellenic Ministry of Culture responsible for archaeological sites and monuments in Athens."
+      },
+      {
+        "title": "This Is Athens — Official Tourism Website",
+        "url": "https://www.thisisathens.org/",
+        "description": "The official tourism website of the Municipality of Athens with guides, maps, and practical visitor information."
+      },
+      {
+        "title": "Attica Regional Government",
+        "url": "https://www.patt.gov.gr/",
+        "description": "Official website of the Region of Attica, covering local governance, services, and tourism in the greater Athens area."
+      },
+      {
+        "title": "Google Maps — Areopagus Hill",
+        "url": "https://maps.app.goo.gl/Dupzqbpja8DxWKSH8",
+        "description": "Location, reviews, and directions for Areopagus Hill (Mars Hill) on Google Maps. Rating: 4.8 stars from 5,515 reviews."
+      }
+    ]
   }
 }

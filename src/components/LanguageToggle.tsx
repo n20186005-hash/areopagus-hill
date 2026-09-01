@@ -30,16 +30,21 @@ export default function LanguageToggle() {
   function switchLocale(next: Locale) {
     setOpen(false);
     if (next === locale) return;
-    
-    // Build the new path with proper locale prefix
-    let newPath;
-    if (pathname === '/' || pathname === `/${locale}`) {
-      newPath = `/${next}`;
+
+    const defaultLocale = routing.locales[0];
+    let pathWithoutLocale: string;
+
+    if (locale === defaultLocale) {
+      pathWithoutLocale = pathname;
     } else {
-      // Remove current locale from pathname and add new one
-      const pathWithoutLocale = pathname.replace(/^\/[^\/]+/, '');
-      newPath = `/${next}${pathWithoutLocale || ''}`;
+      pathWithoutLocale = pathname.replace(/^\/[^\/]+/, '') || '/';
     }
+
+    const normalizedPath = pathWithoutLocale === '/' ? '' : pathWithoutLocale;
+    const newPath = next === defaultLocale
+      ? `/${normalizedPath}`
+      : `/${next}${normalizedPath}`;
+
     window.location.href = newPath;
   }
 

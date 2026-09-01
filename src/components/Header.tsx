@@ -16,7 +16,7 @@ export default function Header() {
   }, []);
 
   const locale = useLocale();
-  const logoHref = `/${locale}`;
+  const logoHref = locale === 'el' ? '/' : `/${locale}`;
 
   return (
     <header

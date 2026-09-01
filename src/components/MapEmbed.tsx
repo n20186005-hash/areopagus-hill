@@ -28,13 +28,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Areopagus+Hill+Athens&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5594.204202367568!2d23.720657277450066!3d37.97236547193632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14a1bd1972fd320f%3A0x673dac60a01f1e34!2sAreopagus%20Hill!5e1!3m2!1szh-CN!2s!4v1788256830050!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Areopagus Hill"
           />
         </div>

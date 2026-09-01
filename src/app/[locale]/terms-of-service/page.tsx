@@ -8,24 +8,21 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
+  const baseUrl = 'https://areopagushillathens.com';
   const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
-  const mtUrl = `${baseUrl}/mt/terms-of-service`;
-  const itUrl = `${baseUrl}/it/terms-of-service`;
-  const esUrl = `${baseUrl}/es/terms-of-service`;
-  const selfUrl = `${baseUrl}/${locale}/terms-of-service`;
+  const elUrl = `${baseUrl}/terms-of-service`;
+  const selfUrl = locale === 'el' ? elUrl : `${baseUrl}/${locale}/terms-of-service`;
 
   return {
+    title: 'Terms of Service – Areopagus Hill Athens',
     alternates: {
       canonical: selfUrl,
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'el': elUrl,
+        'x-default': elUrl,
       },
     },
   };
@@ -36,7 +33,7 @@ function TermsContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = `/${locale}`;
+  const homeHref = locale === 'el' ? '/' : `/${locale}`;
   const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (

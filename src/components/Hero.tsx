@@ -11,8 +11,9 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src="/gallery/areopagus-hill-1.jpg"
-          alt="Areopagus Hill"
+          alt="Areopagus Hill (Mars Hill) sunset view over Acropolis Athens - Best free viewpoint"
           className="w-full h-full object-cover"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

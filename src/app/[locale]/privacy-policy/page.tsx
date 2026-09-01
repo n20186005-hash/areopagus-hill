@@ -8,24 +8,21 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://dinglicliffsmalta.com';
+  const baseUrl = 'https://areopagushillathens.com';
   const zhUrl = `${baseUrl}/zh/privacy-policy`;
   const enUrl = `${baseUrl}/en/privacy-policy`;
-  const mtUrl = `${baseUrl}/mt/privacy-policy`;
-  const itUrl = `${baseUrl}/it/privacy-policy`;
-  const esUrl = `${baseUrl}/es/privacy-policy`;
-  const selfUrl = `${baseUrl}/${locale}/privacy-policy`;
+  const elUrl = `${baseUrl}/privacy-policy`;
+  const selfUrl = locale === 'el' ? elUrl : `${baseUrl}/${locale}/privacy-policy`;
 
   return {
+    title: 'Privacy Policy – Areopagus Hill Athens',
     alternates: {
       canonical: selfUrl,
       languages: {
         'zh': zhUrl,
         'en': enUrl,
-        'mt': mtUrl,
-        'it': itUrl,
-        'es': esUrl,
-        'x-default': enUrl,
+        'el': elUrl,
+        'x-default': elUrl,
       },
     },
   };
@@ -36,7 +33,7 @@ function PrivacyContent() {
   const ht = useTranslations('header');
   const locale = useLocale();
   const messages = useMessages() as any;
-  const homeHref = `/${locale}`;
+  const homeHref = locale === 'el' ? '/' : `/${locale}`;
   const sections = (messages?.privacy?.sections || []) as Array<{ heading: string; content: string }>;
 
   return (
